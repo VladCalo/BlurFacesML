@@ -1,9 +1,6 @@
-test_img.jpg
-test_img2.jpg
-test_img3.jpg
 .ipynb_checkpoints
 data/img_align_celeba
-data/lfw
 .venv
-data/no_face.jpg
-data/pexels-pixabay-417173.jpg
+data/test_photos
+data/
+src/model/seq_model.ipynb
