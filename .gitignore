@@ -5,3 +5,5 @@ test_img3.jpg
 data/img_align_celeba
 data/lfw
 .venv
+data/no_face.jpg
+data/pexels-pixabay-417173.jpg
