@@ -4,3 +4,4 @@ test_img3.jpg
 .ipynb_checkpoints
 data/img_align_celeba
 data/lfw
+.venv
